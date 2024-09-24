@@ -2,7 +2,7 @@
 {{ if .Site.Params.features.enable }}
 {{ if isset .Site.Data "features" }}
 {{ if gt (len .Site.Data.features) 0 }}
-<section class="bar background-white">
+<section id="features"class="bar background-white">
     <div class="container">
         {{ $elements := default 3 .Site.Params.features.cols }}
         {{ $features := sort .Site.Data.features "weight" }}
@@ -26,9 +26,9 @@
                             {{ with $element.url }}
                             <a href="{{ $element.url }}">
                             {{ end }}
-                                <div class="icon">
-                                    <i class="{{ $element.icon }}"></i>
-                                </div>
+                             <div class="icon">
+                                <ion-icon name="{{ $element.icon }}"></ion-icon>
+                            </div>
                             {{ with $element.url }}
                             </a>
                             {{ end }}

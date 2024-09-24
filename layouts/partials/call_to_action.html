@@ -1,0 +1,54 @@
+<!-- layouts/partials/cta-buttons.html -->
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-auto text-center">
+            <!-- Buttons within the same column, centered and spaced -->
+            <a href="#reservation-widget" id="bookTripButton" class="btn btn-primary btn-lg me-2">
+                Book Your Trip Now
+            </a>
+            <a href="https://example.com" id="learnMoreButton" class="btn btn-secondary btn-lg">
+                Learn More
+            </a>
+        </div>
+    </div>
+</div>
+
+<div style="height: 5rem;"></div>
+
+<!-- Widget container with the target ID -->
+<div id="reservation-widget">
+    <a href="https://book.mylimobiz.com/v4/townie" data-ores-widget="website" data-ores-alias="townie">Online Reservations</a>
+    <script type="text/javascript" src="https://book.mylimobiz.com/v4/widgets/widget-loader.js"></script>
+</div>
+
+<!-- Smooth and centered scrolling script -->
+<script>
+  const smoothScroll = (targetSelector) => {
+    const targetElement = document.querySelector(targetSelector);
+    const viewportHeight = window.innerHeight;
+    const elementHeight = targetElement.offsetHeight;
+
+    let offset;
+
+    // If the element is taller than the viewport, scroll to the top of the element
+    if (elementHeight >= viewportHeight) {
+      offset = 0; // Scroll to the top of the object
+    } else {
+      // Center the element in the viewport
+      offset = (viewportHeight - elementHeight) / 2;
+    }
+
+    const y = targetElement.getBoundingClientRect().top + window.pageYOffset - offset;
+    window.scrollTo({ top: y, behavior: 'smooth' });
+  };
+
+  document.querySelector('#bookTripButton').addEventListener('click', function(event) {
+    event.preventDefault();
+    smoothScroll('#reservation-widget'); // Adaptively scroll to the widget
+  });
+
+  document.querySelector('#learnMoreButton').addEventListener('click', function(event) {
+    event.preventDefault();
+    smoothScroll('#features'); // Adaptively scroll to the next section
+  });
+</script>

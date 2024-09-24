@@ -1,0 +1,9 @@
+weight: 1
+title: "RDU Shuttle Service"
+description: >
+  <ul class="list-style-none">
+    <li>We Track your flight to make sure we are there on time</li>
+    <li>Best RDU ground transportation in the Triangle area</li>
+  </ul>
+image: "img/carousel/tesla-y-front.png"
+href: "https://devcows.github.io/hugo-universal-theme/"

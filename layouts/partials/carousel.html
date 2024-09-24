@@ -2,7 +2,7 @@
 {{ if isset .Site.Data "carousel" }}
 {{ if gt (len .Site.Data.carousel) 0 }}
 <section>
-    <div class="home-carousel">
+    <div class="pb-5 home-carousel">
         <div class="dark-mask"></div>
         <div class="container">
             <div class="homepage owl-carousel"
@@ -31,8 +31,11 @@
             </div>
             <!-- /.project owl-slider -->
         </div>
+      
     </div>
+   
 </section>
+
 {{ end }}
 {{ end }}
 {{ end }}

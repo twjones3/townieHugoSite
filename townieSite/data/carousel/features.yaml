@@ -1,0 +1,11 @@
+weight: 2
+title: "Townie's online booking system is the industy standard"
+description: >
+  <ul class="list-style-none">
+     <li>The most secure way to book.</li>
+     <li>Automatic Email and text confirmations provide ample assurance</li>
+     <li>All online bookings are double reviewd by a dispatcher and your driver, ensiring there are no mistakes.</li>
+     <li>At townie each individual trip is important. We recognize that our customers are dicerning and a bespoke experience is required for each indevidual customer. </li>
+   </ul>
+image: "img/carousel/dispatch.jpg"
+href: "faq"
