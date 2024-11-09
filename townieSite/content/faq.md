@@ -8,9 +8,11 @@ Booking with Townie is simple and straightforward. If you're comfortable making 
 
 ## 1. HOW DO I MAKE MY FIRST RESERVATION? 
 
-To book your ride, simply click the blue “Book Now” button in the top right corner of the navigation bar. From there, enter your trip details and select either "To Airport" or "From Airport" for airport transfers, specifying RDU or CLT. Be sure to include your flight information so we can track your flight and ensure a timely pickup. For non-airport travel, choose “Point to Point,” or select “Hourly as Directed” if you’d like your driver to stay with you for an extended period with multiple stops.
+To book your ride, simply click the blue “Book Now” button in the top right corner of the navigation bar. From there, enter your trip details and select either "To Airport" or "From Airport" for airport transfers, specifying RDU or CLT. Be sure to include your flight information so we can track your flight and ensure a timely pickup. For non-airport travel, choose “Point to Point” for simple trips, or select “Hourly as Directed” if you’d like your driver to stay with you for an extended period with multiple stops.
 
-Before checkout, you’ll have the option to create an account. While not required, having an account will give you access to manage your future and past trips, making adjustments as needed.
+*Hourly as directed trips include total vehicle drive time, including your car's return.*
+
+Before checkout, you’ll have the option to create an account. While not required, it is easy to set up and recommended. Having an account will give you access to manage your future and past trips, making adjustments as needed.
 
 ## 2: HOW CAN I KNOW MY RESERVATION IS CONFIRMED AND SECURE?
 
@@ -20,10 +22,9 @@ You'll have three levels of confirmation ensuring you are always aware of your r
 
 *Please allow time for a dispatcher to manually review this booking. If the dispatcher is away, or if it is past normal business hours, this may take some time. Rest assured we will contact you as early as possible if there is a problem.*
 
+2. 24 hours before your pickup the booking contact will receive an automated confirmation email confirming the details of your trip.This will be when you receive your driver's name, contact info, and the assigned vehicle’s details.   
 
-2. Two hours before your pickup, we’ll text you with your driver’s name, vehicle information, and their contact number.
-
-3. You’ll also get two more texts—one when the driver is on the way and another upon arrival. These messages are sent manually to ensure they accurately reflect the driver’s status.
+3. Two hours before pickup, we’ll text the passengers listed cell with your driver’s name, vehicle information, and their contact number. You’ll also get two more texts—one when the driver is on the way and another upon arrival. These messages are sent manually to ensure they accurately reflect the driver’s status.
 
 ## 3. CAN I BE SURE MY DRIVER WILL ARRIVE ON TIME?
 
@@ -31,18 +32,24 @@ At Townie, we schedule with care to ensure there’s no overlap between bookings
 
 ## 4. WHAT DIFFERENTIATES TOWNIE FROM OTHER SERVICES?
 
-Townie is a locally-owned company based right here in Chapel Hill, with a strong focus on supporting local businesses and the community. While we may not operate large buses or stretch limos, that simply means our focus is on you! Your trip to RDU is our specialty, and we treat each ride with the utmost care—it’s the heart of our business.
+Townie is a locally-owned company based right here in Chapel Hill. We have a strong focus on supporting local businesses and the community. While we may not operate large buses or stretch limos, that simply means our focus is on you! Your trip to RDU is our specialty, and we treat each ride with the utmost care. It’s the heart of our business!
 
-Every trip is an opportunity to build a lasting relationship with our customers. But don’t worry, your driver won’t be overbearing. Whether you prefer a friendly conversation or quiet professionalism for a business call, we tailor your experience to meet your expectations.
+Every trip is an opportunity to build a lasting relationship with our customers. But don’t worry, your driver won’t be overbearing. Whether you prefer a friendly conversation or quiet professionalism for a business call, we always tailor your experience to meet your expectations.
 
 
 ## 5. HOW CAN I CONTACT MY DRIVER OR DISPATCH?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Dispatch is available at for contact at 1(800)919-3361 and townie.transportation@gmail.com
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+*There is a $15 manual entry fee when booking over the phone, dispatch is available to answer questions about your online booked trip by phone free of charge* 
+
+Once your driver is assigned the booking contact and the passenger contact will receive the driver's contact information. Here is when you can expect it: 
+
+ - 24 hours before your pickup the booking contact will receive an automated confirmation email confirming the details of your trip.This will be when you receive your driver's name, contact info, and the assigned vehicle’s details.   
+
+  - Two hours before pickup, we’ll text the passengers listed cell with your driver’s name, vehicle information, and their contact number. You’ll also get two more texts—one when the driver is on the way and another upon arrival. These messages are sent manually to ensure they accurately reflect the driver’s status.
+
+
 
 ## 5. WILL MY PASSENGERS AND LUGGAGE FIT?
 We have two vehicle types:
@@ -89,3 +96,4 @@ From opening the door to assisting with your luggage, our chauffeurs make sure t
 ---
 
 > In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+  1(800)919-3361 townie.transportation@gmail.com
